@@ -1,0 +1,4 @@
+-  Olá, sou @gustavofialkoski
+- Meu gmail de contato é gustavo.fialkoski@escola.pr.gov.br
+- Estou interessado em aprender novas linguagens
+- Estou aprendendo a programar JS e Scratch
